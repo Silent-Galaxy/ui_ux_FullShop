@@ -1,3 +1,1 @@
-# ui_ux_FullShop
-php_sql
-Good For Fast Shop! With Source I Take Good Skills!
+php sql good for learn open source! shop with admin panel + esay setup + for setup = 1-initialize.php 2-install cbpos_db.sql ...enjoy...
