@@ -16,4 +16,11 @@ php sql good for learn open source! shop with admin panel + esay setup + for set
 ![image](https://github.com/Silent-Galaxy/ui_ux_FullShop/assets/91001518/26616565-93c9-453b-b0e2-189f21c8e08c)
 ![image](https://github.com/Silent-Galaxy/ui_ux_FullShop/assets/91001518/6b9e8aea-a4d6-407d-b773-d572f5dcfe04)
 ![image](https://github.com/Silent-Galaxy/ui_ux_FullShop/assets/91001518/c7e1ab24-e43f-489b-9fda-f318dbd3de37)
-persian update with zarinpal soon!
+
+persian update with zarinpal soon!...
+
+GalaxyFamily ==> https://discord.gg/2jDAHeqXeQ
+✔ Verify ==> Open Text+Voice
+Owner ==> SilentGalaxy#5040 
+Family Tag ==> Name? | 𝓖𝓕
+WebSite ==> https://silentgalaxy.ir/
