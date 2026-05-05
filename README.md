@@ -1,9 +1,7 @@
-<|channel|>analysis<|message|>Need rewrite as GitHub README.<|end|><|start|>assistant<|channel|>final<|message|># Cosmetic & Beauty Products Online Shop (cbpos)
+Cosmetic & Beauty Products Online Shop (cbpos)
+⚠️ Note – The project was originally distributed as a zip file with a “Default Project” inside cbpos.zip.
 
-> **⚠️ Note** – The project was originally distributed as a zip file with a “Default Project” inside `cbpos.zip`.  
-> This README describes how to set it up locally using XAMPP, import the database and get started.
-
----
+This README describes how to set it up locally using XAMPP, import the database and get started.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
