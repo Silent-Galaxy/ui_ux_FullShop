@@ -41,6 +41,8 @@ Subcribe my You tube Channel **** 1 Source code ****
 
 
 php sql good for learn open source! shop with admin panel + esay setup + for setup project = 1-edit initialize.php 2-install cbpos_db.sql ...enjoy...
+
+images :
 ![image](https://github.com/Silent-Galaxy/ui_ux_FullShop/assets/91001518/b57db2bd-3354-4c12-be3d-631ab27549fa)
 ![image](https://github.com/Silent-Galaxy/ui_ux_FullShop/assets/91001518/a1e67250-a4f5-4835-95c6-88fca0f4b32e)
 ![image](https://github.com/Silent-Galaxy/ui_ux_FullShop/assets/91001518/ab34d8bc-6359-4dbb-868d-f9d0a7802dbc)
